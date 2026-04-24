@@ -1,6 +1,8 @@
 # 🛒 E-Commerce Sales Dashboard
 > An interactive Power BI dashboard built using orders and 
 customer data to track sales, profit and customer behavior.
+><img width="868" height="497" alt="Image" src="https://github.com/user-attachments/assets/937cf1aa-1740-4988-a91d-5e55da4e160e" />
+> 
 
 ## Objective
 To analyze e-commerce sales performance and identify trends 
