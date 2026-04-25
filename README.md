@@ -93,11 +93,13 @@ This dashboard enables e-commerce teams to:
 
 ## Project Structure
 
+```
 ecommerce-sales-dashboard/
-├── E_Commerce_Sales_Dashboard.pbix # Power BI dashboard file
-├── Orders.csv # Orders dataset
-├── Details.csv # Product & customer dataset
-└── E-Commerce_Sales_Dashboard.pdf # Static dashboard export (preview)
+├── E_Commerce_Sales_Dashboard.pbix     # Power BI dashboard file
+├── Orders.csv                          # Orders dataset
+├── Details.csv                         # Product & customer dataset
+└── E-Commerce_Sales_Dashboard.pdf      # Static dashboard export (preview)
+```
 
 ---
 
